@@ -1,2 +1,3 @@
-# Traffic-Signal-Recognition-main
+# CMPE 256 project
+Traffic-Signal-Recognition
  
